@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1758739102286,
+      "tag": "0000_shocking_archangel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1758959124135,
+      "tag": "0001_serious_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1758959268428,
+      "tag": "0002_handy_captain_america",
+      "breakpoints": true
+    }
+  ]
+}
