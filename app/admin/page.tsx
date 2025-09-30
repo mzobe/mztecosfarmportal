@@ -237,7 +237,7 @@ export default function AdminDashboard() {
             <tr key={product.id}>
               <td style={{ border: "1px solid #ddd", padding: "8px" }}>
                 <Avatar>
-                  <AvatarImage src={product.picture} />
+                  <AvatarImage src={`/images/${product.picture}`} />
                   <AvatarFallback>{product.name[0]}</AvatarFallback>
                 </Avatar>
               </td>
